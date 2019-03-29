@@ -27,7 +27,7 @@ All models are codable and networking was performed with the use of URLSession t
 All service models were transormed to view model that match the app requirements.
 
 ### Data Store
-Data is stored in memenory within a datasource class that also enables delegation via protocol.
+Data is stored in memory within a datasource class that also enables delegation via protocol.
 
 ### List view
 A simple table view with two sections utilising an activity indicator.
